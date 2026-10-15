@@ -93,14 +93,7 @@ cd flutter_navigator
 flutter pub get
 ```
 
-**3. Executar a análise e os testes**
-
-```bash
-flutter analyze
-flutter test
-```
-
-**4. Iniciar o aplicativo**
+**3. Iniciar o aplicativo**
 
 ```bash
 # Web
